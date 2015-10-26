@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>location</key>
+		<string>BEIJING	RING</string>
+		<key>coordinate</key>
+		<dict>
+			<key>lng</key>
+			<real>116.280241</real>
+			<key>lat</key>
+			<real>40.048922</real>
+		</dict>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>SHANGHAI	ZHANGJIANG</string>
+		<key>coordinate</key>
+		<dict>
+			<key>lng</key>
+			<real>121.58446</real>
+			<key>lat</key>
+			<real>31.20544</real>
+		</dict>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>SHENZHEN	TINGWEI</string>
+		<key>coordinate</key>
+		<dict>
+			<key>lng</key>
+			<real>113.8760591</real>
+			<key>lat</key>
+			<real>22.75594046</real>
+		</dict>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>XIAN	OPC</string>
+		<key>coordinate</key>
+		<dict>
+			<key>lng</key>
+			<real>108.86145</real>
+			<key>lat</key>
+			<real>34.19116</real>
+		</dict>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>CHENGDU	S&amp;D</string>
+		<key>coordinate</key>
+		<dict>
+			<key>lng</key>
+			<real>104.0661585</real>
+			<key>lat</key>
+			<real>30.65249613</real>
+		</dict>
+	</dict>
+	<dict>
+		<key>location</key>
+		<string>WUHAN	S&amp;D</string>
+		<key>coordinate</key>
+		<dict>
+			<key>lng</key>
+			<real>114.2699549</real>
+			<key>lat</key>
+			<real>30.59494305</real>
+		</dict>
+	</dict>
+</array>
+</plist>
